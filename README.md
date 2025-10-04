@@ -1,0 +1,7 @@
+Module_5_Files_Exceptions_and_Errors_in_Python_ASSIGNMENT_4
+
+This repository contains Python programs files (names are task1 and task2 with.py extension).
+
+Task_1_Read_a_File_and_Handle_Errors
+
+Task_2_Write_and_Append_Data_to_a_File
